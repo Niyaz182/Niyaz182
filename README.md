@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Niyaz Khan! 👋
 
-<!--
-**Niyaz182/Niyaz182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with a B.E. in Computer Science & Engineering, specializing in Artificial Intelligence & Machine Learning. I enjoy building modern, responsive, and interactive applications with clean code. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* 💼 **Experience:** Practical, hands-on experience in Android development and Full-Stack web technologies.
+* 🌱 **Currently Learning:** Expanding my knowledge in modern AI/ML pipelines and advanced web frameworks.
+* 🎯 **Goals:** To solve complex problems and build user-focused digital experiences.
+* 📍 **Location:** Mumbai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+* **Languages:** Java, C/C++, Python, JavaScript, PHP
+* **Frontend:** HTML5, CSS3
+* **Backend/CMS:** MySQL, WordPress
+* **Mobile App:** Android Studio
+* **Tools:** Git, GitHub
+
+### 📫 Let's Connect!
+* 👔 **LinkedIn:** https://www.linkedin.com/in/niyaz-khan/
